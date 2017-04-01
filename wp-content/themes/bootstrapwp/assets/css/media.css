@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01/04/2017, 13:09:49
+    Author     : Roee
+*/
+
+/*--------------------------------------------------------------
+Media Queries 
+--------------------------------------------------------------*/
+ 
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+	.copyright {
+		float: right;
+	}
+}
+ 
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+ 
+}
+ 
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+ 
+}
+ 
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+ 
+	.copyright {
+		float: right;
+	}
+}
+ 
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+ 
+}
