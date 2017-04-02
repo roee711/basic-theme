@@ -208,4 +208,10 @@ require get_template_directory() . '/inc/search-highlight.php';
 require get_template_directory() . '/inc/CPT.php';
 
 //Portfolio Custom Post Type
-require get_template_directory() . '/post-types/register-portfolio.php';
+//require get_template_directory() . '/post-types/register-portfolio.php';
+
+
+/**
+ * Theme Options - Custom CSS.
+ */
+require get_template_directory() . '/inc/custom-css.php';
